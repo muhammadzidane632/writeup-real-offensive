@@ -1,3 +1,3 @@
-# writeup-real-offensive
+# writeup-Website-Exploitation
 
-Cara bacanya Buka folder bya terus klil md nya sorry ga format txt soalnya ada gambar :/ Males buat versi pdfnya btw
+Cara bacanya Buka folder bya terus klik md nya sorry ga format txt soalnya ada gambar :/ Males buat versi pdfnya btw
