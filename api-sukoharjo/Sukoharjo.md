@@ -130,7 +130,7 @@ curl -i -X GET https://api-dev.sukoharjokab.go.id/user \
      -H "Authorization: Bearer [TOKEN (yang barusan kita dapat)]"
 ```
 
-**Hasil:** Hasilnya Akan Berformat JSON yang panjang namun saya juga akan beri file berbentuk pdfnya. Teridentifikasi **32 data user internal** (Admin Diskominfo, BPS, Walidata, dll.) berhasil diakses. Dan Juga Beberapa user yang saya buat sudah dibaca sistem terdaftar sebagai admin. Bisa dilihat juga di awal atau akhir page pdf
+**Hasil:** Hasilnya Akan Berformat JSON yang panjang namun saya juga akan beri file berbentuk pdfnya. Teridentifikasi **32 data user internal** (Admin Diskominfo, BPS, Walidata, dll.) berhasil diakses. Dan Juga Beberapa user yang saya buat sudah dibaca sistem terdaftar sebagai admin. Bisa dilihat juga di awal page pdf
 
 [PDF-BREACH](c3g5Z2-4tejVkNm4.pdf) or di github gw write-up-real-offensive
 
