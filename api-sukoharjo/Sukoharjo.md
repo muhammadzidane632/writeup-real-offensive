@@ -4,7 +4,9 @@
 **Target:** `https://api-dev.sukoharjokab.go.id`
 
 **Researcher:** ZDN
+
 **Severity:** **CRITICAL**
+
 **Date:** April 26, 2026
 
 ---
